@@ -31,5 +31,4 @@
 
 ---
 
-> “Build systems that are simple, automated and reliable.”  
-— Elisabeth ✨
+> “Build systems that are simple, automated and reliable.” 
